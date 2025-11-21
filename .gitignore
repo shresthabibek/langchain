@@ -10,4 +10,4 @@ wheels/
 .venv
 
 #pycharm file
-.idea
+.idea/
