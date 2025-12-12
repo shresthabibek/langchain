@@ -1,0 +1,6 @@
+.env
+.env.*
+.idea
+__pycache__
+LPA-Data-Structures-and-Algorithms-Deep-Dive-Using-Java-SEP2024.pdf
+faiss_index_react/
